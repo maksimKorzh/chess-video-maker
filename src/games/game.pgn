@@ -1,0 +1,72 @@
+[Event "Computer chess game"]
+[Site "maksim-Inspiron-3582"]
+[Date "2022.04.18"]
+[Round "?"]
+[White "Code Monkey King"]
+[Black "Astimate3"]
+[Result "1/2-1/2"]
+[BlackElo "2000"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Time "13:18:03"]
+[Variation "Smyslov, 3...Bc5 4.Bg2 Nc6"]
+[WhiteElo "1700"]
+[TimeControl "0+1"]
+[Termination "normal"]
+[PlyCount "101"]
+[WhiteType "human"]
+[BlackType "program"]
+
+1. e4 Nc6 {(Nb8-c6 Nb1-c3 e7-e5 Ng1-f3 Bf8-c5 d2-d4 Bc5xd4) -0.11/0 0} 2.
+Nc3 e5 {(e7-e5 Ng1-f3 Ng8-f6 d2-d4 d7-d5 e4xd5) -0.45/0 0} 3. g3 Nf6
+{(Ng8-f6 d2-d3 d7-d5 e4xd5 Nf6xd5 Nc3-e4 Bc8-f5 Bc1-g5 Bf8-e7) +0.38/0 0}
+4. Bg2 Bc5 {(Bf8-c5 d2-d3 d7-d6 Ng1-f3 O-O O-O Bc8-e6) +0.53/0 0} 5. h3 d6
+{(d7-d6 Ng1-f3 Bc5-d4 Nf3xd4 Nc6xd4 d2-d3) +0.67/0 0} 6. Nge2 O-O {(O-O
+Nc3-a4 Bc8-e6 Na4xc5) +0.56/0 0} 7. O-O Be6 {(Bc8-e6 d2-d3 a7-a5 Nc3-a4
+Bc5-a7) +0.83/0 0} 8. Kh2 Qd7 {(Qd8-d7 d2-d3 Qd7-d8 Bc1-e3 Bc5xe3 f2xe3
+Nc6-b4) +0.74/0 0} 9. d3 a6 {(a7-a6 Bc1-g5 Qd7-e7 Bg2-f3 h7-h6) +0.66/0 0}
+10. f4 Qd8 {(Qd7-d8 Nc3-d5 Nc6-b4 Nd5xf6+ Qd8xf6 f4xe5 Qf6-e7 e5xd6)
++0.43/0 0} 11. f5 Bc8 {(Be6-c8 Bc1-d2 Bc8-d7 a2-a3 Nc6-d4 g3-g4 Nd4xe2)
++0.25/0 0} 12. g4 h6 {(h7-h6 Bc1-d2 Bc8-d7 a2-a3 Nc6-e7 Rf1-f3 Qd8-b8 g4-g5
+h6xg5) +0.33/0 0} 13. Ng3 Bd7 {(Bc8-d7 g4-g5 h6xg5 Bc1xg5 Bc5-d4 Ng3-h5
+Bd4xc3) +0.10/0 0} 14. Nh5 Nxh5 {(Nf6xh5 g4xh5 Nc6-d4 f5-f6 Bd7-e6 f6xg7)
++0.86/0 0} 15. gxh5 f6 {(f7-f6 Qd1-g4 Nc6-b4 Bc1xh6) +0.69/0 0} 16. a3 Nd4
+{(Nc6-d4 b2-b4 Bc5-a7 Qd1-g4 Nd4xc2 Bc1xh6 Qd8-e7) +0.69/0 0} 17. Ne2 Ba4
+{(Bd7-a4 b2-b3 Nd4xe2 Qd1xe2 Bc5-d4 Ra1-a2 Ba4-c6) +0.84/0 0} 18. Nxd4 Bxd4
+{(Bc5xd4 Bc1-d2 Bd4xb2 Ra1-b1 Bb2-d4 Rb1xb7 Ba4-c6 Rb7-b4 Qd8-e8) +0.83/0
+0} 19. Qe2 Ba7 {(Bd4-a7 Bg2-f3 Qd8-e8 Qe2-g2 Kg8-h8) +0.76/0 0} 20. b3 Be8
+{(Ba4-e8 Bc1-e3 Ba7xe3 Qe2xe3 Be8xh5 Bg2-f3 Bh5xf3 Rf1xf3 Qd8-d7 Rf3-g3)
++0.52/0 0} 21. Be3 Bxh5 {(Be8xh5 Bg2-f3 Ba7xe3 Qe2xe3 Qd8-e8 Rf1-g1 Bh5xf3
+Qe3xf3 Qe8-c6 Qf3-f2 d6-d5 Rg1-g4 d5xe4) +0.46/0 0} 22. Bf3 Bxe3 {(Ba7xe3
+Qe2xe3 Bh5xf3 Rf1xf3 Kg8-h8 Ra1-g1 c7-c6 Rf3-f2 Rf8-f7 c2-c4 Qd8-a5)
++0.26/0 0} 23. Qxe3 Bxf3 {(Bh5xf3 Rf1xf3 Kg8-h8 Ra1-g1 c7-c6 Rf3-g3 Rf8-f7
+c2-c4 Rf7-d7 Qe3-f2) +0.30/0 0} 24. Qxf3 Qd7 {(Qd8-d7 Rf1-g1 Qd7-c6 Qf3-f2
+d6-d5 Rg1-g4 d5xe4) +0.49/0 0} 25. Qh5 Qc6 {(Qd7-c6 Rf1-g1 Rf8-f7 Ra1-c1
+Kg8-f8 Rg1-g2 Qc6-c5) +0.54/0 0} 26. Rf2 Rf7 {(Rf8-f7 Rf2-g2 Qc6-c3 Ra1-f1)
++0.59/0 0} 27. Rg1 Qc5 {(Qc6-c5 Rf2-g2 Kg8-f8 a3-a4 d6-d5 c2-c4 d5xe4)
++0.63/0 0} 28. Rfg2 Kf8 {(Kg8-f8 a3-a4 d6-d5 c2-c4 d5xe4) +0.55/0 0} 29. a4
+d5 {(d6-d5 Rg1-d1 Qc5-d4 Rd1-e1 Kf8-e7 e4xd5) +0.70/0 0} 30. Qe2 Rd8
+{(Ra8-d8 e4xd5 Qc5xd5 Rg2-g4 b7-b6 Rg4-e4 Qd5-c5 Re4-c4 Qc5-d6 Qe2-e4
+c7-c5) +0.78/0 0} 31. Rg4 c6 {(c7-c6 c2-c4 d5xc4 d3xc4 Rf7-d7 Rg4-g2
+Kf8-g8) +0.98/0 0} 32. R1g3 Kg8 {(Kf8-g8 c2-c4 d5xe4) +0.97/0 0} 33. Qd2
+dxe4 {(d5xe4 Rg4xe4 b7-b5 Rg3-g2 Kg8-h8 Qd2-a5 Rf7-d7 a4xb5 a6xb5 Re4-c4
+Qc5-d5) +0.81/0 0} 34. Qxh6 Qxc2+ {(Qc5xc2+ Rg3-g2 Qc2xb3 Rg4xg7+ Kg8-f8
+Rg7xf7+ Kf8xf7 Rg2-g7+ Kf7-e8 Qh6-h8+ Qb3-g8 Qh8xg8+) -0.91/0 0} 35. Rg2
+Qxg2+ {(Qc2xg2+ Kh2xg2 Rd8xd3 Qh6-c1 Rd3xb3 Rg4xe4 Rb3-d3 Re4-e3 Rd3-d4
+a4-a5 Rd4-f4) -1.46/0 0} 36. Rxg2 Rxd3 {(Rd8xd3 Qh6-h4 Rd3xb3 Qh4xe4 a6-a5
+Rg2-d2 Rb3-c3 Rd2-d3) -1.46/0 0} 37. Qh4 Rxb3 {(Rd3xb3 Qh4xe4 a6-a5 Rg2-d2
+Rb3-c3 Rd2-d3 Rc3-c2+ Kh2-g3 Rc2-c1 Rd3-d8+ Rf7-f8 Rd8-d7) -1.37/0 0} 38.
+Qxe4 a5 {(a6-a5 Rg2-d2 Rb3-c3 Rd2-d3 Rc3-c2+ Kh2-g3 Rc2-c1 Rd3-d8+ Rf7-f8
+Rd8-d7) -1.57/0 0} 39. Rd2 Rb4 {(Rb3-b4 Qe4-c2 Kg8-h7 Rd2-d8 Rb4-d4 Rd8xd4
+e5xd4 Qc2-d2 Rf7-d7 Qd2xa5 g7-g5 Qa5-b4 d4-d3) -1.46/0 0} 40. Rd8+ Rf8
+{(Rf7-f8 Qe4-d3 Rf8xd8 Qd3xd8+ Kg8-h7 Qd8xa5 Rb4-b2+ Kh2-g3 Rb2-b3+ Kg3-g4
+b7-b5 h3-h4 e5-e4) -1.52/0 0} 41. Rxf8+ Kxf8 {(Kg8xf8 Qe4-c2 Kf8-e8 Kh2-g2
+Ke8-d7 Qc2-a2 Kd7-d6 Qa2-e6+ Kd6-c5 Qe6-e7+ Kc5-d5 Qe7xg7 Rb4xa4) -1.35/0
+0} 42. Qd3 Rxa4 {(Rb4xa4 Qd3-d8+ Kf8-f7 Qd8-d7+ Kf7-g8 Qd7xb7 Ra4-a2+
+Kh2-g1 Ra2-a1+ Kg1-f2 Ra1-a2+ Kf2-e1 a5-a4 Qb7xc6) -0.77/0 0} 43. Qd8+ Kf7
+44. Qd7+ Kg8 {(Kf7-g8 Qd7xb7 Ra4-a2+ Kh2-g3 Ra2-a3+ Kg3-g4 Ra3-a4+ Kg4-h5
+Ra4-a3 Qb7xc6 Ra3xh3+ Kh5-g4 Rh3-a3 Qc6-d5+ Kg8-h7) -0.96/0 0} 45. Qe6+ Kh7
+{(Kg8-h7 Qe6-f7 Ra4-b4 Qf7-g6+ Kh7-h8 Qg6-e8+ Kh8-h7 Qe8-g6+) -0.71/0 0}
+46. Qf7 Rb4 47. Qg6+ Kh8 48. Qe8+ Kh7 49. Qg6+ Kh8 50. Qe8+ Kh7 51. Qg6+
+{3-fold repetition} 1/2-1/2
+
